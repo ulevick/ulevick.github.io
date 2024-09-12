@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>https://ulevick.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 12 Sep 2024 20:32:46 +0300</lastBuildDate>
-    <atom:link href="https://ulevick.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Post</title>
-      <link>https://ulevick.github.io/posts/first-post/</link>
+      <link>http://localhost:1313/posts/first-post/</link>
       <pubDate>Thu, 12 Sep 2024 20:32:46 +0300</pubDate>
-      <guid>https://ulevick.github.io/posts/first-post/</guid>
-      <description>&lt;p&gt;This is my first post on my Hugo site! I&amp;rsquo;m learning how to use Hugo to create a static website.&#xA;&lt;img src=&#34;https://ulevick.github.io/images/image.jpeg&#34; alt=&#34;Learning Hugo&#34;&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/first-post/</guid>
+      <description>&lt;p&gt;This is my first post on my Hugo site! I&amp;rsquo;m learning how to use Hugo to create a static website.&#xA;&lt;img src=&#34;http://localhost:1313/images/image.jpeg&#34; alt=&#34;Learning Hugo&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
